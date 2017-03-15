@@ -6,3 +6,5 @@ UC Berkeley Visualization：加州大学伯克利分校数据可视化。
 Data Literacy Course – IAP：两个MIT的数据研究生，如何分析处理可视化数据。
 Columbia University Applied Data Science：哥伦比亚大学，数据分析方法。需要一定的数据基础。
 SML: Systems：加州大学伯克利分校，可扩展的机器学习方法。从硬件系统，并行化范式到MapReduce+Hadoop+BigTable，非常全面系统。
+
+For git test
