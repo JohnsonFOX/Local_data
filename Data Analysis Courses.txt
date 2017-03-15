@@ -1,0 +1,8 @@
+﻿Statistical Thinking and Data Analysis：麻省理工学院的统计思维与数据分析课。概率抽样，回归，常见分布等。
+Data Mining | Sloan School of Management：麻省理工学院的数据挖掘课程，数据挖掘的知识以及机器学习算法。
+Rice University Data Visualization：莱斯大学的数据可视化，从统计学的角度分析信息可视化。
+Harvard University Introduction to Computing, Modeling, and Visualization: 哈佛大学，如何在数学计算与数据交互可视化之间架起桥梁。
+UC Berkeley Visualization：加州大学伯克利分校数据可视化。
+Data Literacy Course – IAP：两个MIT的数据研究生，如何分析处理可视化数据。
+Columbia University Applied Data Science：哥伦比亚大学，数据分析方法。需要一定的数据基础。
+SML: Systems：加州大学伯克利分校，可扩展的机器学习方法。从硬件系统，并行化范式到MapReduce+Hadoop+BigTable，非常全面系统。
