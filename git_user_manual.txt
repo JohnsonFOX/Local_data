@@ -1,0 +1,16 @@
+Create repository 
+$ git init
+
+clone repository
+$ git clone /path/repository /path/location_directory   # get a repository clone to the associated directory
+$ git clone username@host:/path/repository              # clone repository to current local directory
+
+repository maintaining
+$ git add /filename/            #upload this temporary modification to repository
+$ git commit -m "comment for this commit"  #commit this modification
+
+synchronization between local and server repository
+$ git push origin master      # choose any branch you want. Here is master.
+
+link local repository to server
+$ git remote add origin /path/server/ #
