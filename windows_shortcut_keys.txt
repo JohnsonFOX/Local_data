@@ -7,10 +7,14 @@
 windows快捷键
 最小化所有窗口	windows+M
 返回桌面		windows+D
+闪现桌面		windows+space
 运行cmd		windows+R+cmd
 打开我的电脑	windows+E
 锁定电脑		windows+L
-
+窗口最大化		windows+↑
+窗口正常化		windows+↓
+窗口左一半		windows+←
+窗口右一半		windows+→
 
 ctrl快捷键
 关闭当前窗口 	ctrl+W
@@ -21,5 +25,6 @@ alt快捷键
 不同程序切换 		alt+ctrl
 同上一个程序切换  	alt+esc
 关闭当前窗口		alt+F4
+最小化当前窗口		alt+apace+n
 
 
