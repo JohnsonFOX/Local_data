@@ -1,0 +1,25 @@
+重命名 	F2
+刷新窗口 	F5
+右键菜单栏 shift+F10
+返回上一级 Backspace
+
+
+windows快捷键
+最小化所有窗口	windows+M
+返回桌面		windows+D
+运行cmd		windows+R+cmd
+打开我的电脑	windows+E
+锁定电脑		windows+L
+
+
+ctrl快捷键
+关闭当前窗口 	ctrl+W
+新建窗口		ctrl+N
+
+alt快捷键
+
+不同程序切换 		alt+ctrl
+同上一个程序切换  	alt+esc
+关闭当前窗口		alt+F4
+
+
