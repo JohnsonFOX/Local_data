@@ -19,6 +19,8 @@ windows快捷键
 ctrl快捷键
 关闭当前窗口 	ctrl+W
 新建窗口		ctrl+N
+软件中切换窗口	ctrl+Tab
+另存为
 
 alt快捷键
 
@@ -26,5 +28,11 @@ alt快捷键
 同上一个程序切换  	alt+esc
 关闭当前窗口		alt+F4
 最小化当前窗口		alt+apace+n
+截屏最前窗口		alt+PrtScr
 
+notepad++快捷键
+注释本行			ctrl+Q
+
+Excel 快捷键
+文档切换			ctrl+PageUp/PageDown
 

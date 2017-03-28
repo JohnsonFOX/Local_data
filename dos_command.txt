@@ -1,0 +1,10 @@
+Powershell
+
+清空shell页面		clear / cls	
+清空命令行			esc
+
+取消正在执行的命令	ctrl+c
+在单词间移动		ctrl+<\ >
+
+显示文件			more + <filename>
+生成空文件			touch
